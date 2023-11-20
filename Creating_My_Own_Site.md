@@ -1,4 +1,4 @@
-# Blog Post #1: Hello, World!
+# Blog Post #1: C
 
 ## Starting Out
 Thoughtout the past year, I've noticed almost every single job application asks for your own website. I didn't really think much of it, but then I started to think about the different ways you could have your "own" blog or personal website. There's sort of a spectrum of options. On one end, you have websites like Medium that just require you to sign up and all you have to bring are the posts. And on the other end, you have running all of you own hardware out of your home and managing the machine yourself. I decided on somewhere in the middle by using AWS services and a domain registar. For the website itself, I settled on a small back end, wholly unnecessary but I just wanted to get more familiar with Go, and a React frontend. I'll probably introduce Tailwind at some point as well.
